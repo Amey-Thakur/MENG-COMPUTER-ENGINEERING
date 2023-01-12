@@ -1,16 +1,14 @@
 # MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING
 
-### Engineering
-
-  >**Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)**
+### Master of Engineering
 
 ---
 
-**University of Mumbai's Affiliated Institute Terna Engineering College**
+**University of Windsor**
 
   >Department of General Engineering
   
-  - **F. E. Computer Engineering (Semester - I)**
+  - **MEng Electrical and Computer Engineering (Semester - I)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
