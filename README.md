@@ -1,6 +1,6 @@
 # MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING
 
-### Master of Engineering
+### University of Windsor - Master of Engineering
 
 ---
 
