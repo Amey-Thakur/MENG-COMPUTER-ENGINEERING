@@ -12,8 +12,8 @@
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
-  | GENG 8000 | Engineering Technical Communications |
-  | GENG 8010 | Engineering Mathematics |
+  | GENG 8000 | [Engineering Technical Communications](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) |
+  | GENG 8010 | [Engineering Mathematics](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) |
 
 ---
 
