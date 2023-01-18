@@ -1,14 +1,8 @@
-# MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING
-
-  <h3 align="University of Windsor</h3> 
+# MENG ELECTRICAL AND COMPUTER ENGINEERING
+  
+  <h3 align="center"><img src="https://user-images.githubusercontent.com/54937357/213055321-f2b12c3b-fd54-47ab-88ce-fd758090313e.png"></h3>
   <h3 align="center">Master of Engineering</h3>
-
-  <h3 align="center"><img src="![UWINDSOR NAME LOGO](https://user-images.githubusercontent.com/54937357/213054478-64985043-f295-46ae-9dbe-1f971ae586f1.jpg)
-" alt="UWindsor" width="350" height="350"></h3>
-
-
-![UWINDSOR NAME LOGO](https://user-images.githubusercontent.com/54937357/213054554-7db4506d-cac4-4f14-8bfe-b61a2ef7cd2c.jpg)
-
+  
 ---
 
 ### [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE)
