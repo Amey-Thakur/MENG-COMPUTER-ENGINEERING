@@ -7,6 +7,8 @@
 
 ### [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE)
 
+### [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
+
 ---
 
 ### University of Windsor
