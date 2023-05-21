@@ -21,6 +21,14 @@
   | :-------------: | ------------- |
   | GENG 8000 | [Engineering Technical Communications](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) |
   | GENG 8010 | [Engineering Mathematics](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) |
+  
+  
+  - **MEng Electrical and Computer Engineering (Semester - II)**
+
+  | Course Code | Course Name |  
+  | :-------------: | ------------- |
+  | GENG 8020 | [Engineering Project Management](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) |
+  | GENG 8030 | [Computational Methods and Modeling for Engineering Applications](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) |
 
 ---
 
