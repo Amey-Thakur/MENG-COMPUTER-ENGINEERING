@@ -35,8 +35,8 @@
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
-  | GENG 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
-  | GENG 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
+  | ELEC 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
+  | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
 
 ---
 
