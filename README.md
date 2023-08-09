@@ -30,6 +30,14 @@
   | GENG 8020 | [Engineering Project Management](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) |
   | GENG 8030 | [Computational Methods and Modeling for Engineering Applications](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) |
 
+
+  - **MEng Electrical and Computer Engineering (Semester - III)**
+
+  | Course Code | Course Name |  
+  | :-------------: | ------------- |
+  | GENG 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
+  | GENG 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
+
 ---
 
 <p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
