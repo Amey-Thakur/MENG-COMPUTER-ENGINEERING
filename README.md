@@ -9,6 +9,8 @@
 
 ### [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
 
+### [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+
 ---
 
 ### [University of Windsor](https://www.uwindsor.ca)
@@ -37,6 +39,9 @@
   | :-------------: | ------------- |
   | ELEC 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
   | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
+
+  _[VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)_
+
 
 ---
 
