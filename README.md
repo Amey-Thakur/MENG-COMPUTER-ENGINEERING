@@ -40,7 +40,7 @@
   | ELEC 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
   | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
   
-  #### [VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)
+  ### [VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)
 
 
  - **MEng Computer Engineering (Semester - IV)**
