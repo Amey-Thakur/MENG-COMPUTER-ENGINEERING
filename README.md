@@ -1,23 +1,23 @@
-# MENG ELECTRICAL AND COMPUTER ENGINEERING
+# MENG-COMPUTER-ENGINEERING
   
   <h3 align="center"><img src="https://github.com/Amey-Thakur/MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING/assets/54937357/78336ce0-0d8a-42e5-9d3c-cf1d1065e5f1"></h3>
   <h3 align="center">Master of Engineering</h3>
   
 ---
 
-### [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE)
+#### [International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE)
 
-### [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
+#### [Engineering International Student Advising](https://github.com/Amey-Thakur/ENGINEERING-INTERNATIONAL-STUDENT-ADVISING)
 
-### [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
+#### [Writing Support](https://github.com/Amey-Thakur/WRITING-SUPPORT)
 
 ---
 
 ### [University of Windsor](https://www.uwindsor.ca)
 
-  >Department of General Engineering
+  >Department of Engineering
   
-  - **MEng Electrical and Computer Engineering (Semester - I)**
+  - **MEng Computer Engineering (Semester - I)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -25,7 +25,7 @@
   | GENG 8010 | [Engineering Mathematics](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) |
   
   
-  - **MEng Electrical and Computer Engineering (Semester - II)**
+  - **MEng Computer Engineering (Semester - II)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
@@ -33,19 +33,25 @@
   | GENG 8030 | [Computational Methods and Modeling for Engineering Applications](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) |
 
 
-  - **MEng Electrical and Computer Engineering (Semester - III)**
+  - **MEng Computer Engineering (Semester - III)**
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | ELEC 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
   | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
+  
+  #### [VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)
 
-  _[VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)_
 
+ - **MEng Computer Engineering (Semester - IV)**
+
+  | Course Code | Course Name |  
+  | :-------------: | ------------- |
+  | ELEC 8560 | [Computational Intelligence](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) |
+  | ELEC 8900 | [Digital Communications](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) |
 
 ---
 
-<p align="center"> <b> 👉🏻 Subject as a part of the 1st Semester of MEng @ University of Windsor 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Engineering Courses & Projects @ University of Windsor 👈🏻 <b> </p>
  
-<p align="center"><a href='https://github.com/Amey-Thakur/MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To MEng ECE ✌🏻</p>
-
+<p align="center"><a href='https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING', style='color: greenyellow;'> ✌🏻 Back To MEng ECE ✌🏻</p>
