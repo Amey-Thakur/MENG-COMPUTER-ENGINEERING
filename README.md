@@ -47,7 +47,7 @@
 
   | Course Code | Course Name |  
   | :-------------: | ------------- |
-  | ELEC 8560 | [Computational Intelligence](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) |
+  | ELEC 8330 | [Computational Intelligence](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) |
   | ELEC 8900 | [Digital Communications](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) |
 
 ---
