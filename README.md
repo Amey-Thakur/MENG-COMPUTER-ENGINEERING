@@ -1,6 +1,6 @@
 # MENG ELECTRICAL AND COMPUTER ENGINEERING
   
-  <h3 align="center"><img src="https://user-images.githubusercontent.com/54937357/213055321-f2b12c3b-fd54-47ab-88ce-fd758090313e.png"></h3>
+  <h3 align="center"><img src="https://github.com/Amey-Thakur/MENG-ELECTRICAL-AND-COMPUTER-ENGINEERING/assets/54937357/78336ce0-0d8a-42e5-9d3c-cf1d1065e5f1"></h3>
   <h3 align="center">Master of Engineering</h3>
   
 ---
