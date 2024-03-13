@@ -30,7 +30,7 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | GENG 8020 | [Engineering Project Management](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) |
-  | GENG 8030 | [Computational Methods and Modeling for Engineering Applications](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) |
+  | GENG 8030 | [Computational Methods and Modeling for Engineering Applications](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) - [Project](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 
   - **MEng Computer Engineering (Semester - III)**
