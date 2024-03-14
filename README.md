@@ -38,7 +38,7 @@
   | Course Code | Course Name |  
   | :-------------: | ------------- |
   | ELEC 8560 | [Computer Networks](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) |
-  | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) |
+  | ELEC 8900 | [Machine Learning](https://github.com/Amey-Thakur/MACHINE--LEARNING) - [Project](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) |
   
   ### [VIP-CSL Fall 2023](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)
 
