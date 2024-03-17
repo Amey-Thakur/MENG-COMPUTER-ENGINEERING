@@ -15,6 +15,8 @@
 
 ### [University of Windsor](https://www.uwindsor.ca)
 
+  #### Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
+
   >Department of Engineering
   
   - **MEng Computer Engineering (Semester - I)**
@@ -49,6 +51,10 @@
   | :-------------: | ------------- |
   | ELEC 8330 | [Computational Intelligence](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) |
   | ELEC 8900 | [Digital Communications](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) |
+
+
+  ### Engineering Projects - [YouTube Playlist](https://youtube.com/playlist?list=PLGOc13Pt03SZ9INe4gyxoZnA4zAXssiLn)
+
 
 ---
 
