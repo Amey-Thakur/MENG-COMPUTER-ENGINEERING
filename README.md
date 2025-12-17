@@ -149,7 +149,7 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 ---
 
-## 🎓 Computer Engineering Repository
+### 🎓 [MEng Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING) Repository
 
 **Computer Engineering (M.Eng) - University of Windsor**
 
