@@ -145,6 +145,8 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 <div align="center">
 
+**🎓 Related Repository:** [Computer Engineering (Undergraduate)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
+
 ---
 
 ## 🎓 Computer Engineering Repository
@@ -152,11 +154,5 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 **Computer Engineering (M.Eng) - University of Windsor**
 
 *Semester-wise curriculum, laboratories, projects, and academic notes.*
-
----
-
-**👉 Engineering Courses & Projects @ University of Windsor 👈**
-
-**✌️** [Back To Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING) **✌️**
 
 </div>
