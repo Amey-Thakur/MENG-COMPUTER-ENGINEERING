@@ -19,6 +19,7 @@
 ---
 
 ## Overview
+
 This repository serves as a centralized index to all academic work completed during the Master of Engineering program in Computer Engineering at [University of Windsor](https://www.uwindsor.ca). Each linked repository contains lecture notes, laboratory assignments, project implementations, reference materials, and supplementary resources for the respective course.
 
 **Purpose**: To provide organized access to educational content spanning four semesters of graduate study, facilitating knowledge sharing and academic reference.
@@ -149,7 +150,7 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 ---
 
-### 🎓 [MEng Computer Engineering](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING) Repository
+### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
 
 **Computer Engineering (M.Eng) - University of Windsor**
 
