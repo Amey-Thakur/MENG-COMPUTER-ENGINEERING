@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="university-of-windsor-logo.png" alt="University of Windsor" width="200"/>
+<img src="university-of-windsor-logo.png" alt="University of Windsor" width="400"/>
 
 # Computer Engineering
 
