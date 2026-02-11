@@ -86,15 +86,15 @@ The curriculum is organized chronologically by semester, progressing from founda
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
 | GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
-| GENG 8030 | Computational Methods and Modeling | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [**Adaptive Cruise Control**](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
+| GENG 8030 | Computational Methods and Modeling | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 #### Semester III
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
 | ELEC 8560 | Computer Networks | [Course](https://github.com/Amey-Thakur/COMPUTER-NETWORKS) | — |
-| ELEC 8900 | Machine Learning | [Course](https://github.com/Amey-Thakur/MACHINE--LEARNING) | [**Zero-Shot Video Generation**](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) |
-| VIP-CSL | VIP - Community Service Learning | [**Open**](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) | [**View Certificate**](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023/blob/main/Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate%20.pdf) |
+| ELEC 8900 | Machine Learning | [Course](https://github.com/Amey-Thakur/MACHINE--LEARNING) | [Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION) |
+| VIP-CSL | VIP - Community Service Learning | [Open](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) | [View Certificate](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023/blob/main/Amey%20Mahendra%20Thakur%20F23%20VIP-CSL%20Certificate%20.pdf) |
 
 #### Semester IV
 
