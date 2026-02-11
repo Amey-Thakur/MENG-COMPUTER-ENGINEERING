@@ -36,7 +36,7 @@
 
 ## Overview
 
-This repository serves as a centralized index to all academic work completed during the Master of Engineering program in Computer Engineering at the [University of Windsor](https://www.uwindsor.ca), affiliated with the [Faculty of Engineering](https://www.uwindsor.ca/engineering/). Each linked repository contains lecture notes, laboratory assignments, project implementations, reference materials, and supplementary resources for the respective course.
+This repository serves as a centralized index to all academic work completed during the Master of Engineering program in Computer Engineering at the [University of Windsor](https://www.uwindsor.ca). Each linked repository contains lecture notes, laboratory assignments, project implementations, reference materials, and supplementary resources for the respective course.
 
 **Purpose**: To provide organized access to educational content spanning four semesters of graduate study, facilitating knowledge sharing and academic reference.
 
