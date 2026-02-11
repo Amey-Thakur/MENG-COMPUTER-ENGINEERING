@@ -114,7 +114,7 @@ A curated collection of engineering projects developed throughout the program, d
 </div>
 
 > [!IMPORTANT]
-> **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** serves as a principal graduate implementation, synthesizing advanced Machine Learning and Computer Vision paradigms into a research-based project.
+> **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** serves as a dedicated research space for technical notes and scholarly reflections. It documents the theoretical foundations and evolving ideas that accompany these practical engineering projects.
 
 ### Featured Projects
 
