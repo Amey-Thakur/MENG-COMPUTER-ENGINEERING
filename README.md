@@ -174,7 +174,7 @@ This repository represents a comprehensive academic archive of my intellectual j
 
 Grateful acknowledgment to **Jason Horn** for his exceptional support and invaluable guidance at the intersection of engineering and academic discourse. His mentorship in scholarly writing and technical communication was instrumental in refining the theoretical frameworks and documentation standards for these projects. Beyond technical assistance, his constant encouragement, scholarly expertise, and dedication to excellence made a profound difference throughout this learning experience. Working alongside him was a truly enriching opportunity; his ability to bridge complex engineering concepts with clear, high-fidelity scholarly reflections helped turn every academic challenge into a meaningful learning milestone. This work reflects the growth that came from his shared insights and mutual dedication to mastering the nuances of professional and academic communication.
 
-Grateful acknowledgment to the faculty of the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
+Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
 
 ---
 
