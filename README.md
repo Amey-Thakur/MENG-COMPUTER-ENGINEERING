@@ -172,9 +172,11 @@ This repository represents a comprehensive academic archive of my intellectual j
 **Program**: Master of Engineering in Computer Engineering  
 **Duration**: 2023 - 2024
 
-Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
+Grateful acknowledgment to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
-Special thanks to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
+Grateful acknowledgment to **Rob Janisse**, **Alumni Coordinator – Special Projects**, for organizing several impactful events during my time at university. I had the opportunity to work closely with him on multiple occasions, and he was always patient, supportive, and incredibly helpful. His guidance and mentorship made a meaningful difference in my university experience, and I truly appreciate the time, effort, and encouragement he consistently offered.
+
+Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
 
 ---
 
