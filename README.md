@@ -191,13 +191,16 @@ Grateful acknowledgment to the faculty members, mentors, and peers whose guidanc
 
 **🎓 Related Repository:** [Computer Engineering (Undergraduate)](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
 
----
-
-### 🎓 [Computer Engineering Repository](https://github.com/Amey-Thakur/COMPUTER-ENGINEERING)
-
 **Computer Engineering (B.E.) - University of Mumbai**
 
 *The foundational archive of **baccalaureate studies** and **applied engineering labs**.*
 
+---
+
+### 🎓 [MEng Computer Engineering Repository](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING)
+
+**Computer Engineering (M.Eng) - University of Windsor**
+
+*An archival record of **graduate-level research** and **advanced engineering coursework**.*
 
 </div>
