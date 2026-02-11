@@ -120,7 +120,6 @@ A curated collection of engineering projects developed throughout the program, d
 
 - [x] **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** · Machine Learning & Computer Vision
 - [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems
-- [x] **[VIP-CSL Research](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)** · Vertically Integrated Projects (VIP Research)
 
 ### Student Support Resources
 *A systematic archive of **university support services** utilized throughout the graduate journey.*
