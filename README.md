@@ -114,7 +114,7 @@ A curated collection of engineering projects developed throughout the program, d
 </div>
 
 > [!IMPORTANT]
-> **[Advancing Ideas @ AmeyArc_](https://github.com/Amey-Thakur/Amey-Thakur.github.io)** serves as a dedicated research space for technical notes and scholarly reflections. It documents the theoretical foundations and evolving ideas that accompany these practical engineering projects.
+> **[Advancing Ideas @ AmeyArc_](https://amey-thakur.github.io/)** serves as a dedicated research space for technical notes and scholarly reflections. It documents the theoretical foundations and evolving ideas that accompany these practical engineering projects.
 
 ### Featured Projects
 
