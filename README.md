@@ -174,7 +174,7 @@ This repository represents a comprehensive academic archive of my intellectual j
 
 Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
 
-Special thanks to **Jason Horn** from **Writing Support** at the **University of Windsor** for his invaluable mentorship and technical guidance in academic writing. His expert support was instrumental throughout my graduate studies, contributing significantly to my professional documentation standards and scholarly growth. His dedication to excellence and patient instruction are deeply appreciated.
+Special thanks to **Jason Horn**, **Writing Support**, **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
 ---
 
