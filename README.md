@@ -185,7 +185,7 @@ Grateful acknowledgment to the **Faculty of Engineering** at the **University of
 
   [↑ Back to Top](#computer-engineering)
 
-  [❖ Author](#author) &nbsp;·&nbsp; [ⓘ Overview](#overview) &nbsp;·&nbsp; [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Course Catalog](#course-catalog) &nbsp;·&nbsp; [★ Projects](#computer-engineering--applied-research-projects) &nbsp;·&nbsp; [☷ Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [© License](#license) &nbsp;·&nbsp; [⌬ About](#about-this-repository) &nbsp;·&nbsp; [✦ Acknowledgments](#acknowledgments)
+  [❖ Author](#author) &nbsp;·&nbsp; [ⓘ Overview](#overview) &nbsp;·&nbsp; [◎ Motivation](#motivation) &nbsp;·&nbsp; [☰ Curriculum](#course-catalog) &nbsp;·&nbsp; [★ Projects](#computer-engineering--applied-research-projects) &nbsp;·&nbsp; [☷ Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [© License](#license) &nbsp;·&nbsp; [⌬ About](#about-this-repository) &nbsp;·&nbsp; [✦ Acknowledgments](#acknowledgments)
 
 </div>
 
