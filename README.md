@@ -121,6 +121,11 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** · Machine Learning & Computer Vision (Semester III)
 - [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems (Semester II)
 
+### Experiential Learning & Community Service
+*A dedicated initiative bridging academic theory with meaningful community engagement.*
+
+- [x] **[VIP - Community Service Learning](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)** · Data Analyst & Outreach Assistant (Semester III)
+
 ### Student Support Resources
 *A systematic archive of **university support services** utilized throughout the graduate journey.*
 
