@@ -183,7 +183,9 @@ Grateful acknowledgment to the [**VIP - Community Service Learning (VIP-CSL)**](
 
 Grateful acknowledgment to **Rob Janisse**, **Alumni Coordinator – Special Projects**, for organizing several impactful events during my time at university. I had the opportunity to work closely with him on multiple occasions, and he was always patient, supportive, and incredibly helpful. His guidance and mentorship made a meaningful difference in my university experience, and I truly appreciate the time, effort, and encouragement he consistently offered.
 
-Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership, and to my mentors and peers for the intellectual synergy that defined this graduate academic journey. Their contributions to my learning experience are deeply appreciated.
+Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
+
+Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
