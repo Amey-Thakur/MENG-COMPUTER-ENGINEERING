@@ -177,13 +177,13 @@ This repository represents a comprehensive academic archive of my intellectual j
 **Program**: Master of Engineering in Computer Engineering  
 **Duration**: 2023 - 2024
 
+Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
+
 Grateful acknowledgment to **Jason Horn**, [**Writing Support**](https://github.com/Amey-Thakur/WRITING-SUPPORT), **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
 Grateful acknowledgment to the [**VIP - Community Service Learning (VIP-CSL)**](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) program and the **Arts Council - Windsor & Region (ACWR)** for providing a transformative experiential learning opportunity. I extend my sincere appreciation to **Dr. Rob Gordon**, **Jane Sylvester**, and **Maria Mediratta** for their leadership and unwavering support in bridging academic theory with meaningful community service.
 
 Grateful acknowledgment to **Rob Janisse**, **Alumni Coordinator – Special Projects**, for organizing several impactful events during my time at university. I had the opportunity to work closely with him on multiple occasions, and he was always patient, supportive, and incredibly helpful. His guidance and mentorship made a meaningful difference in my university experience, and I truly appreciate the time, effort, and encouragement he consistently offered.
-
-Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
 
 Special thanks to the **mentors** and **peers** whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
