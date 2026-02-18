@@ -174,6 +174,9 @@ A curated collection of engineering projects developed throughout the program, d
 
 - [x] **[VIP - Community Service Learning](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)** · Data Analyst & Outreach Assistant (Semester III)
 
+
+---
+
 ## Student Support Resources
 *A systematic archive of **university support services** utilized throughout the graduate journey.*
 
