@@ -122,6 +122,10 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems (Semester II)
 
 ### Coursework Implementations
+
+> [!NOTE]
+> **Applied Theory**: This section itemizes the specific technical implementations and system models developed throughout the program. Each entry represents a practical application of advanced theoretical concepts, ranging from algorithmic design in **MATLAB/Simulink** to strategic **project management** frameworks.
+
 - **Simulink Digital Communication Models** · *Digital Communications (Semester IV)*
   - [x] [Binary Pulse Amplitude Modulation (BPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29)
   - [x] [M-ary Pulse Amplitude Modulation (MPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29)
