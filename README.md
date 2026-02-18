@@ -78,14 +78,14 @@ The curriculum is organized chronologically by semester, progressing from founda
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
+| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [Energy Efficient Engineering Designs](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
 | GENG 8010 | Engineering Mathematics | [Course](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) | — |
 
 #### Semester II
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [PM Software Evaluation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20%5BAmey%20Thakur%20-%20110107589%5D.pdf)<br>[Global Green Books Case Study](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf)<br>[E-KYC Platform Implementation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf) |
+| GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Strategic Project Management Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
 | GENG 8030 | Computational Methods and Modeling | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 #### Semester III
@@ -100,8 +100,8 @@ The curriculum is organized chronologically by semester, progressing from founda
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| ELEC 8330 | Computational Intelligence | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [Convolutional Neural Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Convolutional_Neural_Network.m)<br>[Fuzzy Logic & Reasoning](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Logic_and_Reasoning.m)<br>[Fuzzy Set Theory](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Set_Theory.m)<br>[Genetic Algorithm Optimization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Optimization.m)<br>[Self-Organizing Maps (SOM)](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Self_Organizing_Maps_Kohonen.m)<br>[Radial Basis Function Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Radial_Basis_Function_Network.m)<br>[Learning Vector Quantization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Learning_Vector_Quantization.m)<br>[Bidirectional Associative Memory](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Bidirectional_Associative_Memory.m)<br>[Generalized Hopfield Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Generalized_Hopfield_Step_Function.m) |
-| ELEC 8900 | Digital Communications | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Binary Pulse Amplitude Modulation (BPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29)<br>[M-ary Pulse Amplitude Modulation (MPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29)<br>[Phase Shift Keying (PSK)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29)<br>[Quadrature Amplitude Modulation (QAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29)<br>[Offset QPSK (OQPSK)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29) |
+| ELEC 8330 | Computational Intelligence | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE) | [Computational Intelligence Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs) |
+| ELEC 8900 | Digital Communications | [Course](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS) | [Simulink Digital Communication Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects) |
 
 ---
 
@@ -120,6 +120,25 @@ A curated collection of engineering projects developed throughout the program, d
 
 - [x] **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** · Machine Learning & Computer Vision (Semester III)
 - [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems (Semester II)
+
+### Coursework Implementations
+- [x] **[Simulink Digital Communication Models](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS?tab=readme-ov-file#simulink-projects)** · *Digital Communications*
+  - [Binary Pulse Amplitude Modulation (BPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29) · [M-ary Pulse Amplitude Modulation (MPAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%202%20-%20Pulse%20Amplitude%20Modulation%20%28PAM%29)
+  - [Phase Shift Keying (PSK)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%203%20-%20Phase%20Shift%20Keying%20%28PSK%29) · [Quadrature Amplitude Modulation (QAM)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%204%20-%20Quadrature%20Amplitude%20Modulation%20%28MQAM%29)
+  - [Offset QPSK (OQPSK)](https://github.com/Amey-Thakur/DIGITAL-COMMUNICATIONS/tree/main/Project/Task%205%20-%20Offset%20Quadrature%20Phase%20Shift%20Keying%20%28OQPSK%29)
+
+- [x] **[Computational Intelligence Algorithms](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE?tab=readme-ov-file#matlab-programs)** · *Computational Intelligence*
+  - [Convolutional Neural Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Convolutional_Neural_Network.m) · [Fuzzy Logic & Reasoning](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Logic_and_Reasoning.m)
+  - [Genetic Algorithm Optimization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Optimization.m) · [Self-Organizing Maps (SOM)](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Self_Organizing_Maps_Kohonen.m)
+  - [Radial Basis Function Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Radial_Basis_Function_Network.m) · [Bidirectional Associative Memory](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Bidirectional_Associative_Memory.m)
+
+- [x] **[Strategic Project Management Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments)** · *Engineering Project Management*
+  - [PM Software Evaluation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20%5BAmey%20Thakur%20-%20110107589%5D.pdf)
+  - [Global Green Books Case Study](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf)
+  - [E-KYC Platform Implementation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf)
+
+- [x] **[Energy Efficient Engineering Designs](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design)** · *Engineering Technical Communications*
+  - [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design)
 
 ### Experiential Learning & Community Service
 *A dedicated initiative bridging academic theory with meaningful community engagement.*
