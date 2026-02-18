@@ -140,11 +140,22 @@ A curated collection of engineering projects developed throughout the program, d
 
 🧠 **Computational Intelligence Algorithms** · *Computational Intelligence (Semester IV)*
   - [x] [Convolutional Neural Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Convolutional_Neural_Network.m)
-  - [x] [Fuzzy Logic & Reasoning](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Logic_and_Reasoning.m)
-  - [x] [Genetic Algorithm Optimization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Optimization.m)
   - [x] [Self-Organizing Maps (SOM)](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Self_Organizing_Maps_Kohonen.m)
   - [x] [Radial Basis Function Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Radial_Basis_Function_Network.m)
+  - [x] [Radial Basis Function Optimization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Radial_Basis_Function_Optimization.m)
+  - [x] [Learning Vector Quantization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Learning_Vector_Quantization.m)
   - [x] [Bidirectional Associative Memory](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Bidirectional_Associative_Memory.m)
+  - [x] [Generalized Hopfield Network](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Generalized_Hopfield_Step_Function.m)
+  - [x] [Fuzzy Logic & Reasoning](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Logic_and_Reasoning.m)
+  - [x] [Fuzzy Reasoning System](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Reasoning_System.m)
+  - [x] [Fuzzy Set Theory](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Set_Theory.m)
+  - [x] [Fuzzy Set Operations](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Fuzzy_Set_Theory_Operations.m)
+  - [x] [Genetic Algorithm Optimization](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Optimization.m)
+  - [x] [Genetic Algorithm Implementation](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Implementation.m)
+  - [x] [Genetic Algorithm Variant I](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Variant_I.m)
+  - [x] [Genetic Algorithm Variant II](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Genetic_Algorithm_Variant_II.m)
+  - [x] [Binary to Decimal Conversion](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Binary_to_Decimal_Conversion.m)
+  - [x] [Decimal to Binary Conversion](https://github.com/Amey-Thakur/COMPUTATIONAL-INTELLIGENCE/blob/main/MATLAB/Decimal_to_Binary_Conversion.m)
 
 📊 **Strategic Project Management Case Studies** · *Engineering Project Management (Semester II)*
   - [x] [PM Software Evaluation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%201/A%20Comparative%20Evaluation%20of%20Project%20Management%20Software%20for%20Engineering%20Projects%20%5BAmey%20Thakur%20-%20110107589%5D.pdf)
