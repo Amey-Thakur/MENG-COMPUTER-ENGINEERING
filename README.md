@@ -78,7 +78,7 @@ The curriculum is organized chronologically by semester, progressing from founda
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [Energy Efficient Engineering Designs](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
+| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [UN SDG Sustainable Engineering Solutions](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
 | GENG 8010 | Engineering Mathematics | [Course](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) | — |
 
 #### Semester II
@@ -142,7 +142,7 @@ A curated collection of engineering projects developed throughout the program, d
   - [x] [Global Green Books Case Study](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%202/Driving%20Success%20through%20Project%20Management%20Implementation%20-%20A%20Case%20Study%20Analysis%20of%20Global%20Green%20Books%20Publishing.pdf)
   - [x] [E-KYC Platform Implementation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT/blob/main/Assignments/EPM%20Assignment%203/EPM%20Assignment%203%20-%20Case%20study%20and%20case%20study%20reviews.pdf)
 
-- [x] **Energy Efficient Engineering Designs** · *Engineering Technical Communications (Semester I)*
+- [x] **UN SDG Sustainable Engineering Solutions** · *Engineering Technical Communications (Semester I)*
   - [x] [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design)
 
 ### Experiential Learning & Community Service
