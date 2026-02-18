@@ -121,6 +121,10 @@ A curated collection of engineering projects developed throughout the program, d
 - [x] **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** · Machine Learning & Computer Vision (Semester III)
 - [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems (Semester II)
 
+
+> [!NOTE]
+> All projects listed in this repository are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available throughout the archive.
+
 ### Coursework Implementations
 *A systematic portfolio of **advanced technical implementations** and **applied system models** developed throughout the graduate curriculum.*
 
