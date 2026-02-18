@@ -127,7 +127,7 @@ A curated collection of engineering projects developed throughout the program, d
 
 ### Coursework Implementations
 
-> [!NOTE]
+> [!TIP]
 > **Applied Theory**: This section itemizes the specific technical implementations and system models developed throughout the program. Each entry represents a practical application of advanced theoretical concepts, ranging from algorithmic design in **MATLAB/Simulink** to strategic **project management** frameworks.
 
 - **Simulink Digital Communication Models** · *Digital Communications (Semester IV)*
@@ -153,8 +153,7 @@ A curated collection of engineering projects developed throughout the program, d
 - **UN SDG Sustainable Engineering Solutions** · *Engineering Technical Communications (Semester I)*
   - [x] [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design)
 
-> [!TIP]
-> **Environment Compatibility**: These simulations were rigorously tested in standard academic environments. For the best experience, verify that your local setup (especially for **MATLAB/Simulink**) matches the toolboxes listed in each project's `README`.
+
 
 ---
 
