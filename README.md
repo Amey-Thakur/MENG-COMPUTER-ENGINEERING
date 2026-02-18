@@ -85,7 +85,7 @@ The curriculum is organized chronologically by semester, progressing from founda
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | — |
+| GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [PM Software Evaluation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments)<br>[Global Green Books Case Study](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments)<br>[E-KYC Platform Implementation](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
 | GENG 8030 | Computational Methods and Modeling | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 #### Semester III
