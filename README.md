@@ -78,7 +78,7 @@ The curriculum is organized chronologically by semester, progressing from founda
 
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
-| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | — |
+| GENG 8000 | Engineering Technical Communications | [Course](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS) | [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design) |
 | GENG 8010 | Engineering Mathematics | [Course](https://github.com/Amey-Thakur/ENGINEERING-MATHEMATICS) | — |
 
 #### Semester II
