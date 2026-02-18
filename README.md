@@ -126,6 +126,7 @@ A curated collection of engineering projects developed throughout the program, d
 > **Verified Implementations**: All projects listed in this repository are verified implementations. Detailed visual demonstrations, technical reports, and environment configuration guides are available throughout the archive.
 
 ### Coursework Implementations
+*A systematic portfolio of **advanced technical implementations** and **applied system models** developed throughout the graduate curriculum.*
 
 > [!TIP]
 > **Applied Theory**: This section itemizes the specific technical implementations and system models developed throughout the program. Each entry represents a practical application of advanced theoretical concepts, ranging from algorithmic design in **MATLAB/Simulink** to strategic **project management** frameworks.
