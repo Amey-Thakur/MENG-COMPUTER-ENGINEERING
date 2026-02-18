@@ -145,12 +145,14 @@ A curated collection of engineering projects developed throughout the program, d
 - **UN SDG Sustainable Engineering Solutions** · *Engineering Technical Communications (Semester I)*
   - [x] [Efficient Home Insulation](https://github.com/Amey-Thakur/ENGINEERING-TECHNICAL-COMMUNICATIONS?tab=readme-ov-file#iv-the-major-team-project-suite--capstone-engineering-design)
 
-### Experiential Learning & Community Service
+---
+
+## Experiential Learning & Community Service
 *A dedicated initiative bridging academic theory with meaningful community engagement.*
 
 - [x] **[VIP - Community Service Learning](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023)** · Data Analyst & Outreach Assistant (Semester III)
 
-### Student Support Resources
+## Student Support Resources
 *A systematic archive of **university support services** utilized throughout the graduate journey.*
 
 - [x] **[International Student Centre](https://github.com/Amey-Thakur/INTERNATIONAL-STUDENT-CENTRE)** · Support for international students
