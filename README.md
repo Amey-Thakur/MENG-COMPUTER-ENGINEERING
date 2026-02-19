@@ -233,7 +233,7 @@ This repository represents a comprehensive academic archive of my intellectual j
 
 Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
 
-Grateful acknowledgment to **Jason Horn**, [**Writing Support**](https://github.com/Amey-Thakur/WRITING-SUPPORT), **University of Windsor**, for his distinguished mentorship and scholarly guidance. His analytical feedback and methodological rigor were instrumental in refining the intellectual depth and professional caliber of my academic work. His dedication stands as a testament to the pursuit of academic excellence and professional integrity.
+Grateful acknowledgment to **Jason Horn**, [**Writing Support Desk**](https://github.com/Amey-Thakur/WRITING-SUPPORT), **University of Windsor**, for his distinguished mentorship and scholarly guidance. His analytical feedback and methodological rigor were instrumental in refining the intellectual depth and professional caliber of my academic work. His dedication stands as a testament to the pursuit of academic excellence and professional integrity.
 
 Grateful acknowledgment to the [**VIP - Community Service Learning (VIP-CSL)**](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) program and the **Arts Council - Windsor & Region (ACWR)** for providing a transformative experiential learning opportunity. I extend my sincere appreciation to **Dr. Rob Gordon**, **Jane Sylvester**, and **Maria Mediratta** for their leadership and unwavering support in bridging academic theory with meaningful community service.
 
