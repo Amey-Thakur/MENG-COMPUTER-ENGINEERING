@@ -52,10 +52,10 @@ The creation of this archive stems from a fundamental belief: **true learning tr
 
 **Why this repository exists:**
 
-- **Knowledge Preservation**: To capture and maintain the depth of understanding developed across four semesters of rigorous graduate study
-- **Continuous Learning**: To create a resource that supports lifelong learning, enabling me to revisit advanced principles as I encounter complex challenges
-- **Academic Integrity**: To document my authentic academic journey - every concept studied, every project implemented, every problem solved
-- **Open Contribution**: To share these materials with the broader community, believing that knowledge grows when freely exchanged
+- **Knowledge Preservation**: To capture and maintain the depth of understanding developed across four semesters of rigorous graduate study.
+- **Continuous Learning**: To create a resource that supports lifelong learning, enabling me to revisit advanced principles as I encounter complex challenges.
+- **Academic Integrity**: To document my authentic academic journey - every concept studied, every project implemented, every problem solved.
+- **Open Contribution**: To share these materials with the broader community, believing that knowledge grows when freely exchanged.
 
 This is more than a collection of files or a digital archive. It is a testament to years of intellectual growth, a record of challenges overcome, and a foundation upon which future learning will be built. By making this work publicly available, I hope it serves not only my own continued education but also assists others on their learning journeys.
 
@@ -86,7 +86,7 @@ The curriculum is organized chronologically by semester, progressing from founda
 | Code | Course Title | Repository | Project |
 |:----:|:-------------|:----------:|:-------:|
 | GENG 8020 | Engineering Project Management | [Course](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT) | [Strategic Project Management Case Studies](https://github.com/Amey-Thakur/ENGINEERING-PROJECT-MANAGEMENT?tab=readme-ov-file#assignments) |
-| GENG 8030 | Computational Methods and Modeling for Engineering Applications | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
+| GENG 8030 | Computational Methods and Modeling | [Course](https://github.com/Amey-Thakur/COMPUTATIONAL-METHODS-AND-MODELING-FOR-ENGINEERING-APPLICATIONS) | [Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL) |
 
 #### Semester III
 
@@ -119,7 +119,7 @@ A curated collection of engineering projects developed throughout the program, d
 ### Featured Projects
 
 - [x] **[Zero-Shot Video Generation](https://github.com/Amey-Thakur/ZERO-SHOT-VIDEO-GENERATION)** · Machine Learning & Computer Vision (Semester III)
-- [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Methods and Modeling for Engineering Applications (Semester II)
+- [x] **[Adaptive Cruise Control](https://github.com/Amey-Thakur/ADAPTIVE-CRUISE-CONTROL)** · Computational Modeling & Control Systems (Semester II)
 
 
 > [!NOTE]
@@ -233,7 +233,7 @@ This repository represents a comprehensive academic archive of my intellectual j
 
 Grateful acknowledgment to the **Faculty of Engineering** at the **University of Windsor** for their pedagogical leadership. Their contributions to my learning experience are deeply appreciated.
 
-Grateful acknowledgment to **Jason Horn**, [**Writing Support Desk**](https://github.com/Amey-Thakur/WRITING-SUPPORT), **University of Windsor**, for his distinguished mentorship and scholarly guidance. His analytical feedback and methodological rigor were instrumental in refining the intellectual depth and professional caliber of my academic work. His dedication stands as a testament to the pursuit of academic excellence and professional integrity.
+Grateful acknowledgment to **Jason Horn**, [**Writing Support**](https://github.com/Amey-Thakur/WRITING-SUPPORT), **University of Windsor**, for his distinguished mentorship and scholarly guidance. His thoughtful feedback and methodological precision were instrumental in strengthening the analytical depth and professional quality of my academic work. His commitment to excellence and integrity is gratefully acknowledged.
 
 Grateful acknowledgment to the [**VIP - Community Service Learning (VIP-CSL)**](https://github.com/Amey-Thakur/VIP-CSL-FALL-2023) program and the **Arts Council - Windsor & Region (ACWR)** for providing a transformative experiential learning opportunity. I extend my sincere appreciation to **Dr. Rob Gordon**, **Jane Sylvester**, and **Maria Mediratta** for their leadership and unwavering support in bridging academic theory with meaningful community service.
 
