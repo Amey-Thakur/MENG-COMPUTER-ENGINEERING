@@ -68,6 +68,20 @@ This is more than a collection of files or a digital archive. It is a testament 
 
 The curriculum is organized chronologically by semester, progressing from foundational graduate engineering principles to advanced computing specializations.
 
+> [!IMPORTANT]
+> **Master of Engineering in Computer Engineering: [MEng Computer Engineering Notes Labs and Projects](MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)**
+>
+> This degree in one document: four semesters of graduate coursework and the project work, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through every repository.
+>
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/raw/main/MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
+
+> [!NOTE]
+> **Bachelor of Engineering and Master of Engineering: [Computer Engineering Archive](Computer%20Engineering%20Archive.pdf)**
+>
+> The same catalogue extended across twelve semesters, adding the B.E. in Computer Engineering at Terna Engineering College, University of Mumbai, to the M.Eng in Computer Engineering at the University of Windsor. Read this one if you want the full path from the first year through to graduate study rather than a single degree.
+>
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](Computer%20Engineering%20Archive.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-533762?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/raw/main/Computer%20Engineering%20Archive.pdf)
+
 > [!TIP]
 > Each **Course Code** link navigates directly to a dedicated repository containing extensive lecture notes, assignment solutions, and reference materials for that specific subject.
 
