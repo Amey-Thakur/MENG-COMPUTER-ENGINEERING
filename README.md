@@ -73,7 +73,7 @@ The curriculum is organized chronologically by semester, progressing from founda
 >
 > This degree in one document: four semesters of graduate coursework and the project work, each entry opening the repository it names. Useful if you would rather read the catalogue in one pass than click through every repository.
 >
-> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/raw/main/MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
+> [![Read it here](https://img.shields.io/badge/Read-in%20the%20browser-0969DA?style=flat&logo=readthedocs&logoColor=white)](MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf) [![Download the PDF](https://img.shields.io/badge/Download-the%20PDF-FFCE00?style=flat&logo=adobeacrobatreader&logoColor=black)](https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING/raw/main/MEng%20Computer%20Engineering%20Notes%20Labs%20and%20Projects.pdf)
 
 > [!NOTE]
 > **Bachelor of Engineering and Master of Engineering: [Computer Engineering Archive](Computer%20Engineering%20Archive.pdf)**
