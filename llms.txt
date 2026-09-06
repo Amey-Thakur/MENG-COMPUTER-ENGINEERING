@@ -1,0 +1,33 @@
+# Computer Engineering
+
+> M.Eng. Computer Engineering - University of Windsor Academic Repository
+> (2023-2024)
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Institution: University of Windsor
+Programme: M.Eng Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 12 January 2023
+Work dated: 6 June 2024
+
+## What is in this repository
+
+- Computer Engineering Archive.pdf
+- MEng Computer Engineering Notes Labs and Projects.pdf
+- Orientation Ticket.pdf
+- university-of-windsor-logo.png
+- youtube-icon.png
+
+## Subject terms
+
+academic-archive, canada, computational-intelligence, computer-engineering,
+computer-engineering-notes, course-materials, curriculum,
+digital-communications, graduate, learning-resources, machine-learning,
+master-of-engineering, meng, meng-ece, university-of-windsor, uwindsor
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/MENG-COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
